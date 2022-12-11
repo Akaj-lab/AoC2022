@@ -1,0 +1,102 @@
+[
+    {
+        "Starting items": [
+            53,
+            89,
+            62,
+            57,
+            74,
+            51,
+            83,
+            97
+        ],
+        "Operation": "new = old * 3",
+        "Test": 13,
+        "If true": 1,
+        "If false": 5
+    },
+    {
+        "Starting items": [
+            85,
+            94,
+            97,
+            92,
+            56
+        ],
+        "Operation": "new = old + 2",
+        "Test": 19,
+        "If true": 5,
+        "If false": 2
+    },
+    {
+        "Starting items": [
+            86,
+            82,
+            82
+        ],
+        "Operation": "new = old + 1",
+        "Test": 11,
+        "If true": 3,
+        "If false": 4
+    },
+    {
+        "Starting items": [
+            94,
+            68
+        ],
+        "Operation": "new = old + 5",
+        "Test": 17,
+        "If true": 7,
+        "If false": 6
+    },
+    {
+        "Starting items": [
+            83,
+            62,
+            74,
+            58,
+            96,
+            68,
+            85
+        ],
+        "Operation": "new = old + 4",
+        "Test": 3,
+        "If true": 3,
+        "If false": 6
+    },
+    {
+        "Starting items": [
+            50,
+            68,
+            95,
+            82
+        ],
+        "Operation": "new = old + 8",
+        "Test": 7,
+        "If true": 2,
+        "If false": 4
+    },
+    {
+        "Starting items": [
+            75
+        ],
+        "Operation": "new = old * 7",
+        "Test": 5,
+        "If true": 7,
+        "If false": 0
+    },
+    {
+        "Starting items": [
+            92,
+            52,
+            85,
+            89,
+            68,
+            82
+        ],
+        "Operation": "new = old * old",
+        "Test": 2,
+        "If true": 0,
+        "If false": 1
+    }
+]
